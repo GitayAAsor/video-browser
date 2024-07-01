@@ -27,3 +27,17 @@
 .filters .filter-select:nth-child(3) {
   left: 1%;
 }
+
+@media (max-width: 985px) {
+  .filters {
+    display: block;
+  }
+
+  .filters .filter-select:nth-child(2) {
+    right: 0%;
+  }
+
+  .filters .filter-select:nth-child(3) {
+    left: 0%;
+  }
+}
