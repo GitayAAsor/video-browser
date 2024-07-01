@@ -14,12 +14,10 @@
   font-size: 19px;
   height: 55px;
   padding: 6px 0px 6px 13px;
-  -webkit-text-fill-color: #878787;
 }
 
 .filters .filter-select {
   width: 100%;
-  -webkit-text-fill-color: #9e9e9e;
 }
 
 .filters .filter-select:nth-child(2) {
